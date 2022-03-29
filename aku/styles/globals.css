@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 div {
-  @apply border-2 border-rose-500
+  /* @apply border-2 border-rose-500 */
 }
 
